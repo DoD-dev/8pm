@@ -7,6 +7,7 @@ void setup() {
   Serial.begin(12800);
     timer = micros();
   // put your setup code here, to run once:
+	//ghi chu 1
 
 }
 
